@@ -8,7 +8,7 @@ Para rodar o projeto localmente, siga estes passos:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/Grillekkj/kttzoo.git](https://github.com/Grillekkj/kttzoo.git)
+    git clone https://github.com/Grillekkj/kttzoo.git
     ```
 
 2.  **Navegue até o diretório do projeto:**
@@ -40,7 +40,8 @@ Após seguir esses passos, o backend estará rodando em `http://localhost:3000` 
 
 Aqui estão os próximos passos planejados para o projeto. Sinta-se à vontade para pegar uma tarefa e contribuir!
 
-- [ ] Desenvolver o frontend da aplicação.
+- [ ] [Desenvolver o frontend da aplicação](./frontend_kttzoo/)
+- [ ] Documentar como iniciar o servidor do frontend.
 - [ ] Aprimorar o prompt da IA para melhorar a qualidade das respostas.
 - [ ] Aprimorar o algoritmo de tradução para melhorar a qualidade das respostas.
 - [ ] Criar um banco de dados para funcionar como acervo histórico, contendo documentos sobre a Gualín, o TTK e outras expressões culturais, que também serão exibidos no site.
