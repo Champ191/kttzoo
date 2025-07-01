@@ -66,4 +66,4 @@ Gostaríamos de agradecer a todos que contribuíram e ajudaram a moldar este pro
 - [Paulo Bento](https://github.com/PauloHenriqueBento)
 - [Jorge Aguiar](https://www.twitch.tv/ditasverso)
 - [Pedro Girondi](https://www.twitch.tv/aakdrip)
-- [Felipe Vital](AdicionarRedeDePreferencia)
+- [Felipe Vital](https://www.instagram.com/taldotalvi/)
